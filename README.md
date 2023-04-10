@@ -1,2 +1,2 @@
-# patik
+# patika
 sorting
